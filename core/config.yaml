@@ -1,0 +1,7 @@
+latency_threshold: 3000
+symbols:
+  - AAPL
+  - GOOG
+  - MSFT
+  - TSLA
+  - AMZN
