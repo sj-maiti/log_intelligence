@@ -5,6 +5,8 @@ from core.metrics import Metrics
 from core.visualizer import plot_latency
 from core.syscheck import SystemCheck
 
+# test change
+
 @timed
 def analyze(logfile):
     m = Metrics(logfile)
